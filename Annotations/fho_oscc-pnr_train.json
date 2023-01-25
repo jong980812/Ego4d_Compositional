@@ -1,0 +1,23 @@
+{
+    "version": "1.0",
+    "date": "220218",
+    "description": "Object State Change Classification & PNR Temporal Localization Annotations",
+    "split": "train",
+    "clips": [
+        {
+            "clip_uid": "b6a88030-b904-4f06-89b4-d2c8eb219bf6",
+            "clip_id": "1805",
+            "unique_id": "80b0c4fd-185a-42f4-94c3-a3cc44d28e21-2_487695266666667-10_487695266666666",
+            "video_uid": "9c59e912-2340-4400-b2df-7db3d4066723",
+            "clip_start_sec": 2.487695266666667,
+            "clip_end_sec": 10.487695266666666,
+            "parent_start_sec": 2.487695266666667,
+            "parent_end_sec": 10.487695266666666,
+            "clip_start_frame": 74,
+            "clip_end_frame": 314,
+            "parent_start_frame": 74,
+            "parent_end_frame": 314,
+            "state_change": true,
+            "clip_pnr_frame": 184,
+            "parent_pnr_frame": 184
+        }]}

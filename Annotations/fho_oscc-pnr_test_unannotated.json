@@ -1,0 +1,24 @@
+{
+    "version": "1.0",
+    "date": "220304",
+    "description": "Object State Change Classification & PNR Temporal Localization Annotations",
+    "split": "test_unannotated",
+    "clips": [
+        {
+            "clip_id": "1397",
+            "unique_id": "1397-230-238-1397",
+            "video_uid": "a6bd7096-ada1-4fe1-a81b-3b7609a39f31",
+            "parent_start_sec": 230.63333333333333,
+            "parent_end_sec": 238.0,
+            "parent_start_frame": 6919,
+            "parent_end_frame": 7140
+        },
+        {
+            "clip_id": "2422",
+            "unique_id": "2422-902-910-2422",
+            "video_uid": "0ddfd541-8b2a-45fe-b68e-bcea0d7d03b8",
+            "parent_start_sec": 902.8333333333334,
+            "parent_end_sec": 910.0,
+            "parent_start_frame": 27085,
+            "parent_end_frame": 27300
+        }]}

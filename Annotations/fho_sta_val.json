@@ -1,0 +1,21 @@
+{
+    "uid": "c7a446bc-e16e-4e59-a027-e8449a01251a_0009189",
+    "video_id": "c7a446bc-e16e-4e59-a027-e8449a01251a",
+    "frame": 9189,
+    "clip_id": 2648,
+    "clip_uid": "00819273-b88a-4d51-97fb-a394cf0f3118",
+    "clip_frame": 429,
+    "objects": [
+        {
+            "box": [
+                532.81,
+                805.15,
+                742.2099999999999,
+                884.72
+            ],
+            "verb_category_id": 33,
+            "noun_category_id": 9,
+            "time_to_contact": 2.6666666666666665
+        }
+    ]
+}

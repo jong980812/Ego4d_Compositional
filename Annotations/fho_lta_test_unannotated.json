@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "date": "220217",
+  "description": "Ego4d Long Term Anticipation Forecasting Annotations",
+  "split": "test_unannotated",
+  "clips": [
+    {
+      "video_uid": "9c59e912-2340-4400-b2df-7db3d4066723",
+      "clip_uid": "77af34ff-5dad-4912-98ed-2d4492be0666",
+      "clip_parent_start_sec": 292.0,
+      "clip_parent_end_sec": 608.0,
+      "clip_parent_start_frame": 8759,
+      "clip_parent_end_frame": 18239,
+      "interval_start_frame": 8999,
+      "interval_end_frame": 17999,
+      "interval_start_sec": 300.0,
+      "interval_end_sec": 600.0,
+      "action_clip_start_sec": 12.721028600000011,
+      "action_clip_end_sec": 20.72102860000001,
+      "action_clip_start_frame": 382,
+      "action_clip_end_frame": 622,
+      "clip_id": 1806,
+      "action_idx": 0
+    }
+  ]
+}

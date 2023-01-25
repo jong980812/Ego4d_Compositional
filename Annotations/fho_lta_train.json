@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "date": "220217",
+  "description": "Ego4d Long Term Anticipation Forecasting Annotations",
+  "split": "train",
+  "clips": [
+    {
+      "video_uid": "9c59e912-2340-4400-b2df-7db3d4066723",
+      "clip_uid": "b6a88030-b904-4f06-89b4-d2c8eb219bf6",
+      "clip_parent_start_sec": 0.0,
+      "clip_parent_end_sec": 308.0,
+      "clip_parent_start_frame": 0,
+      "clip_parent_end_frame": 9239,
+      "interval_start_frame": 0,
+      "interval_end_frame": 8999,
+      "interval_start_sec": 0.0,
+      "interval_end_sec": 300.0,
+      "verb": "put_(place,_leave,_drop)",
+      "noun": "mower_(lawnmower,_mower)",
+      "action_clip_start_sec": 2.487695266666667,
+      "action_clip_end_sec": 10.487695266666666,
+      "action_clip_start_frame": 74,
+      "action_clip_end_frame": 314,
+      "clip_id": 1805,
+      "action_idx": 0,
+      "verb_label": 65,
+      "noun_label": 259
+    },
+    {
+      "video_uid": "9c59e912-2340-4400-b2df-7db3d4066723",
+      "clip_uid": "b6a88030-b904-4f06-89b4-d2c8eb219bf6",
+      "clip_parent_start_sec": 0.0,
+      "clip_parent_end_sec": 308.0,
+      "clip_parent_start_frame": 0,
+      "clip_parent_end_frame": 9239,
+      "interval_start_frame": 0,
+      "interval_end_frame": 8999,
+      "interval_start_sec": 0.0,
+      "interval_end_sec": 300.0,
+      "verb": "adjust_(regulate,_increase/reduce,_change)",
+      "noun": "mower_(lawnmower,_mower)",
+      "action_clip_start_sec": 6.5210286,
+      "action_clip_end_sec": 14.5210286,
+      "action_clip_start_frame": 195,
+      "action_clip_end_frame": 435,
+      "clip_id": 1805,
+      "action_idx": 1,
+      "verb_label": 0,
+      "noun_label": 259
+    }
+  ]
+}

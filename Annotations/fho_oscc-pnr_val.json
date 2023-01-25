@@ -1,0 +1,40 @@
+{
+    "version": "1.0",
+    "date": "220218",
+    "description": "Object State Change Classification & PNR Temporal Localization Annotations",
+    "split": "val",
+    "clips": [
+        {
+            "clip_uid": "8d686451-cac9-4526-a022-b6eaf7d467b4",
+            "clip_id": "8",
+            "unique_id": "aa1da104-8458-41e6-8100-ba8ee5733b00-0_6210285999999999-8_621028599999999",
+            "video_uid": "cde41c4f-50d1-4910-9f2a-4c7b6987df92",
+            "clip_start_sec": 1.654361933333333,
+            "clip_end_sec": 6.754361933333333,
+            "parent_start_sec": 1.6333333333333333,
+            "parent_end_sec": 6.733333333333333,
+            "clip_start_frame": 49,
+            "clip_end_frame": 202,
+            "parent_start_frame": 49,
+            "parent_end_frame": 202,
+            "state_change": true,
+            "clip_pnr_frame": 138,
+            "parent_pnr_frame": 138
+        },
+        {
+            "clip_uid": "8d686451-cac9-4526-a022-b6eaf7d467b4",
+            "clip_id": "8",
+            "unique_id": "aa1da104-8458-41e6-8100-ba8ee5733b00-11_454361933333333-19_45436193333333",
+            "video_uid": "cde41c4f-50d1-4910-9f2a-4c7b6987df92",
+            "clip_start_sec": 12.5210286,
+            "clip_end_sec": 18.321028599999998,
+            "parent_start_sec": 12.566666666666666,
+            "parent_end_sec": 18.366666666666667,
+            "clip_start_frame": 377,
+            "clip_end_frame": 551,
+            "parent_start_frame": 377,
+            "parent_end_frame": 551,
+            "state_change": true,
+            "clip_pnr_frame": 463,
+            "parent_pnr_frame": 463
+        }]}
